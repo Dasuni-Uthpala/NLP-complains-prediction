@@ -1,2 +1,3 @@
 # NLP-complains-prediction
-You can predict the complain type of the complains in apartments
+
+You can predict the complain types of the complains in apartments
